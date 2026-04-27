@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Storm&display=swap');/*Importação da fonte "Rubik Storm" do Google Fonts*/
+@import url(https://db.onlinewebfonts.com/c/62fa13c8d6a7597eef48bdd7e57de4a3?family=Heart+Breaking+Bad);/*Importação da fonte "Breaking Bad" do Online Web Fonts*/
+@import url('https://fonts.cdnfonts.com/css/simpsonfont');
+/*Reset Básico*/
+
+* {
+    box-sizing: border-box; /* Ativar o box model para todos os elementos */
+    margin: 0%; /* Remover margens padrão */
+    padding: 0%;/*' Remover preenchimento padrão */
+}
+
+h1 {
+    text-align: center;
+    font-family: "Rubik Storm", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 60px;
+}
+
+h2{
+    text-align: center;
+    font-family: "Heart Breaking Bad";
+    font-style: normal;
+    font-size: 40px;
+}
+
+h3 {
+    text-align: center;
+    font-family: 'Simpsonfont', sans-serif;
+    font-family: 'Akbar', sans-serif;
+}
+p {
+    font-family: papyrus, system-ui;
+}
+
